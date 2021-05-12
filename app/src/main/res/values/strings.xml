@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Legion Settings </string>
+    <string name="legion_settings_title">Legion Settings</string>
+
+    <string name="button_title">Buttons</string>
+    <string name="about_legion">About</string>
+    <string name="gestures_title">Gestures</string>
+    <string name="lockscreen_title">Lock screen</string>
+    <string name="misc_title">Miscellaneous</string>
+    <string name="navbar_title">Navigation bar</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="powermenu_title">Power menu</string>
+    <string name="quicksettings_title">Quick Settings</string>
+    <string name="miscsettings_title">Miscellaneous</string>
+    <string name="statusbar_title">Status bar</string>
+    <string name="themesui_title">ThemesUi</string>
+    <string name="themes_color">Theming</string>
+    <string name="animations_title">Animations</string>
+    <string name="animation_settings_title">Animations</string>
+    <string name="lockscreen_ui_title">Lockscreen UI</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
